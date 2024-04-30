@@ -21,3 +21,13 @@ foundational to my proposal for the dao i previously mentioned to a few of u aco
 ## branding 
 
 logo is don't tread on me yellow flag wif black south rectangle wif pixelated white text in existing design. may use dollar icon separately for token wif yellow exterior wif yellow x from flag outside the black inner circle wif white icon.
+
+## SOUTH survivor 
+
+who me? i'm a SOUTH survivor..
+
+droid tablet wif gorilla case about the size of amazon fire 7.  button on top to connect to internet. if switched must go to settings & connect to wifi or to skynet. wen button switched, these are also switched off so it doesn't connect on accident.
+
+installed apps include x, tg, cashapp, grok, coinbase wallet, phantom & SOUTH custom wallet entitled TREAD (branding similar to don't tread on me).
+
+setup of device is simple to create username & password. from there everything else is handled through api calls. it uses that username for subdomain on SOUTH.dao & that full username for email service run through photon or a blockchain one, a grasshopper style phone number service wif 321 area code & our own 456, 789, 407 or 502 local code. device id is phone number so that's prebuilt into it not through cellular service but our web3 version of grasshopper through a corporate phone system that can handle io of sms & other forms of written communication preferably through https style data packets o our own l2 (on both eth wif btc inscriptions similar to runes.
