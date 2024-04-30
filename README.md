@@ -17,3 +17,7 @@ foundational to my proposal for the dao i previously mentioned to a few of u aco
 - define brand voice but embrace individuality & fam/fren inclusive community
 - token gate community & sub communities through hundreds of token collections on multiple blockchains
 - expand geo region outside south through transition to web3 rebel ethos fighting against establishment & for local community rights
+
+## branding 
+
+logo is don't tread on me yellow flag wif black south rectangle wif pixelated white text in existing design. may use dollar icon separately for token wif yellow exterior wif yellow x from flag outside the black inner circle wif white icon.
